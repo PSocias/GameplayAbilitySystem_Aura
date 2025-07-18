@@ -1,17 +1,49 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-Build
+#################################
+# Unreal Engine Generated Files #
+#################################
+/Build
+/Builds
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
 
-.vscode
-.cs
-*.VC.db
-*.opensdf
-*.opendb
-*.sdf
-*.sln
+#################################
+# Visual Studio Generated Files #
+#################################
+# Cache Directory
+.vs
+# User Specific Files
+*.rsuser
 *.suo
-*.xcodeproj
-*.xcworkspace
+*.user
+*.userosscache
+*.sln.docstates
+# CPP Cache Files
+*.VC.db
+*.opendb
+*.opensdf
+*.sdf
+# Solution Files
+*.sln
+# VSCode Cache Directory
+.vscode
+# VSCode History Files
+**/.history
 
+#################################
+# Miscellaneous Generated Files #
+#################################
+# ADD AS NEED BE
+
+###################################
+# JetBrains Rider Generated Files #
+###################################
+# Cache Directory
+.idea
+
+# Solution and Project Files
+*.sln
+*.csproj
+*.sln.DotSettings
+*.sln.DotSettings.user
